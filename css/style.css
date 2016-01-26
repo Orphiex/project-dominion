@@ -1,0 +1,82 @@
+.cover-screen {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+header {
+
+}
+
+.container {
+  align: center;
+  max-width: 1200px;
+}
+
+.reset-game {
+  float: right;
+}
+
+.card-slot {
+  height: 200px;
+  background-color: #528fd2;
+}
+
+.card-image {
+  max-height: 100%;
+  max-width: 100%;
+  margin-top: 24px;
+}
+
+#cardSelection {
+  background-color: #1e2d82;
+  height: 750px;
+}
+
+.cardField {
+  margin-top: 25px;
+  height: 700px;
+}
+
+#staticCards {
+  background-color: #4385c2;
+}
+
+#actionField {
+  background-color: #4385c2;
+}
+
+    #treasureField {
+      height: 650px;
+    }
+
+
+
+#playerHands {
+  background-color: #1e2d82;
+  height: 500px;
+}
+
+  .turn-order {
+    background-color: #02194a;
+    display: block;
+    height: 400px;
+    margin-top: 25px;
+  }
+
+    .turn-box {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      height: 85px;
+      background-color: black;
+    }
+
+  .draw-discard {
+    margin-top: 25px;
+    background-color: #4385c2;
+  }
+
+.signature {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
